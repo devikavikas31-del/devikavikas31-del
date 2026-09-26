@@ -46,6 +46,54 @@ I work across software development, data, and AI, with an interest in building u
 - Represent students in computing, AI, and engineering programs.
 - Collaborate on policies and initiatives supporting academic and campus needs.
 
+### Volunteer Coordinator | International Volunteer Association
+*August 2026–Present*
+
+- Coordinate volunteer opportunities, event planning, scheduling, and logistics.
+- Recruit and communicate with student volunteers and collaborate with the executive board to support participation and community involvement.
+
+### Vice President | Physician to Patient
+*August 2025–Present*
+
+- Help plan meetings, events, and healthcare-related activities for members.
+- Coordinate speakers and educational opportunities for students interested in healthcare, and support community service and outreach.
+
+### Dance Instructor | TipToes Dance Company
+*June 2025–July 2026*
+
+- Taught ballet and hip-hop to children ages 2–7 in a mobile dance program.
+- Created age-appropriate choreography and prepared students for annual recitals in a positive, safe learning environment.
+
+### Studio Manager | Rhythms School of Dance
+*November 2024–Present*
+
+- Manage studio operations, including attendance, billing, enrollment, schedules, events, and performances using StudioPro.
+- Maintain records, troubleshoot platform issues, train staff, and support communication with students, parents, and the community.
+
+### Event Coordinator | We Are SATH
+*September 2024–Present*
+
+- Organize workshops and events that promote mental health awareness and emotional well-being.
+- Support peer mentorship and collaborate with club leaders to create a welcoming community, including freshmen perspectives in planning.
+
+### Coach | Rhythms School of Dance
+*June 2024–Present*
+
+- Coach the Minor and Fusion teams, leading practices, choreography, and performance preparation.
+- Organize team schedules and competition logistics, and create resources for dancers and families.
+
+### Bollywood Dance Instructor | EcoKids Bilingual Preschool
+*January 2024–March 2026*
+
+- Taught Bollywood dance to more than 60 students ages 3–8, adapting choreography and lessons for different age groups.
+- Led performances and promoted creativity, coordination, cultural awareness, confidence, and teamwork.
+
+### Team Leader | Marjory Stoneman Douglas SMART
+*August 2022–May 2024*
+
+- Led a tutoring program with more than 50 members, coordinating scheduling, communication, engagement, and evaluation.
+- Provided design leadership to a 10-officer team to maintain program quality and relevance.
+
 ## Certifications
 
 - Introduction to Programming Using Python
