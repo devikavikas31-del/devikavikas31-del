@@ -6,7 +6,7 @@ I work across software development, data, and AI, with an interest in building u
 
 - **Programming:** Python, HTML, JavaScript
 - **AI and data:** Generative AI (Gemini), database management
-- **Tools and platforms:** GitHub, Supabase, Firebase, Cursor
+- **Tools and platforms:** GitHub, Supabase, Firebase, Cursor, Visual Studio Code, Claude
 - **Other:** Web development, Canva, Microsoft Office
 
 ## Featured Projects
