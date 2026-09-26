@@ -26,7 +26,7 @@ I work across software development, data, and AI, with an interest in building u
 
 ## Experience
 
-### Data & AI Intern | Prodian Technologies
+### Data & AI Intern | Prodia Technologies
 *August 2026–Present*
 
 - Contribute to development of Lumen, a wearable protein-tracking device and companion application.
